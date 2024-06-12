@@ -52,11 +52,11 @@ function startApp (){
        <text x="150" y="125" font-size="60" text-anchor="middle" fill="${response.text_color}">${response.text}</text>
      
        </svg>
-       `
+       `;
 
-       fs.writeFileSync("logo.svg", newTag)
-    })
+       fs.writeFileSync("logo.svg", newTag);
+    });
 }
 
 ///starts App
-startApp()
+startApp();
