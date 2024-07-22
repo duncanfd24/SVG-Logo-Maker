@@ -14,7 +14,7 @@ Follow the prompts to generate your SVG logo:
 4.  Enter a color for the text (e.g., white, #ffffff, rgb(255, 255, 255))
 5.  After completing the prompts, the application will generate a file named logo.svg in the project directory and print Generated logo.svg to the command line. 
 
-Walkthrough Video: 
+Walkthrough Video: https://app.screencastify.com/v2/manage/videos/TkbDhaIe2Goa3FCXjM4e
 
 # Contributing
 
