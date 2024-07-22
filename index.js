@@ -55,6 +55,8 @@ function startApp (){
        `;
 
        fs.writeFileSync("logo.svg", newTag);
+
+       console.log("Generated logo.svg");
     });
 }
 
