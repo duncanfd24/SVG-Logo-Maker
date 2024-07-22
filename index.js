@@ -2,8 +2,8 @@
 // take inquirer answers and format an svg tag based off of user input
 // Use OOP class with a fs writefile to insert produced tag in a brand new file name logo.svg
 const inquirer = require("inquirer")
-const fs = require("fs")
-const {Circle, Square, Triangle} = require("./lib/shapes.js")
+const fs = require("fs");
+const {Circle, Square, Triangle} = require("./lib/shapes.js");
 
 
 function startApp (){
@@ -60,3 +60,4 @@ function startApp (){
 
 ///starts App
 startApp();
+
